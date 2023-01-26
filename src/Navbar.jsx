@@ -22,11 +22,11 @@ const Navbar = () => {
             <li className="nav-item">
               <Link to='/domain' className="nav-link" style={{ color: '#FF63B1' }} >Explore Domains</Link>
             </li>
+            <li className="nav-item">
+              <Link to='/helping-hand' className="nav-link" style={{ color: '#FF63B1' }} >Helping Hand</Link>
+            </li>
           </ul>
-            <Link to='/signup'><button className="btn" style={{ backgroundColor: '#FF63B1', color: 'white', marginRight: '16px' }}>Users</button></Link>
-          <form action="csignup.php" className="form-inline my-2 my-lg-0">
-            <button className="btn" style={{ backgroundColor: '#FF63B1', color: 'white', marginRight: '16px' }} >Company</button>
-          </form>
+            <Link to='/signup'><button className="btn" style={{ backgroundColor: '#FF63B1', color: 'white', marginRight: '16px' }}>Login/Signup</button></Link>
           
         </div>
       </nav>
