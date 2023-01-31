@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/change-the-clap/static/css/main.e2653e10.css",
+    "main.js": "/change-the-clap/static/js/main.d8959441.js",
+    "static/media/bicollective.png": "/change-the-clap/static/media/bicollective.be8d3aa7a0cd2bc22aa4.png",
+    "static/media/tweetindia.jpeg": "/change-the-clap/static/media/tweetindia.11604970bc1d5e5bc526.jpeg",
+    "static/media/aarohan.jpg": "/change-the-clap/static/media/aarohan.d95a95ce5edeaaa3b883.jpg",
+    "static/media/humsafar.jpg": "/change-the-clap/static/media/humsafar.68cd86acfb553401f969.jpg",
+    "static/media/logo.png": "/change-the-clap/static/media/logo.7c3e1cdd0b14856985a6.png",
+    "static/media/sahodari.jpg": "/change-the-clap/static/media/sahodari.346841891ca0727c5007.jpg",
+    "static/media/indianaces.jpg": "/change-the-clap/static/media/indianaces.5ecf1ea773a618dd0f12.jpg",
+    "static/media/athi.jfif": "/change-the-clap/static/media/athi.04d534b4a946141cb41e.jfif",
+    "static/media/periferry.jfif": "/change-the-clap/static/media/periferry.97ad4ed3ff12bd0ee866.jfif",
+    "static/media/sappho.jfif": "/change-the-clap/static/media/sappho.d2a656ce79058ee2e51a.jfif",
+    "static/media/nazariya.png": "/change-the-clap/static/media/nazariya.671f15e30cbae22446b7.png",
+    "index.html": "/change-the-clap/index.html",
+    "main.e2653e10.css.map": "/change-the-clap/static/css/main.e2653e10.css.map",
+    "main.d8959441.js.map": "/change-the-clap/static/js/main.d8959441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2653e10.css",
+    "static/js/main.d8959441.js"
+  ]
+}
