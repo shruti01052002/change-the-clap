@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/change-the-clap/static/css/main.e2653e10.css",
-    "main.js": "/change-the-clap/static/js/main.d8959441.js",
+    "main.js": "/change-the-clap/static/js/main.5d52ab68.js",
     "static/media/bicollective.png": "/change-the-clap/static/media/bicollective.be8d3aa7a0cd2bc22aa4.png",
     "static/media/tweetindia.jpeg": "/change-the-clap/static/media/tweetindia.11604970bc1d5e5bc526.jpeg",
     "static/media/aarohan.jpg": "/change-the-clap/static/media/aarohan.d95a95ce5edeaaa3b883.jpg",
@@ -15,10 +15,10 @@
     "static/media/nazariya.png": "/change-the-clap/static/media/nazariya.671f15e30cbae22446b7.png",
     "index.html": "/change-the-clap/index.html",
     "main.e2653e10.css.map": "/change-the-clap/static/css/main.e2653e10.css.map",
-    "main.d8959441.js.map": "/change-the-clap/static/js/main.d8959441.js.map"
+    "main.5d52ab68.js.map": "/change-the-clap/static/js/main.5d52ab68.js.map"
   },
   "entrypoints": [
     "static/css/main.e2653e10.css",
-    "static/js/main.d8959441.js"
+    "static/js/main.5d52ab68.js"
   ]
 }
