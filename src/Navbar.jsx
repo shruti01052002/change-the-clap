@@ -14,19 +14,19 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent" style={{paddingLeft:'10px'}}>
           <ul className="navbar-nav mr-auto">
             <li className="nav-item ative">
-              <Link to='/' className="nav-link" style={{ color: '#FF63B1' }}>About us <span className="sr-only">(current)</span></Link>
+              <Link to='/change-the-clap' className="nav-link" style={{ color: '#FF63B1' }}>About us <span className="sr-only">(current)</span></Link>
             </li>
             <li className="nav-item">
-              <Link to='/success' className="nav-link" style={{ color: '#FF63B1' }}>Sucess Stories</Link>
+              <Link to='/change-the-clap/success' className="nav-link" style={{ color: '#FF63B1' }}>Sucess Stories</Link>
             </li>
             <li className="nav-item">
-              <Link to='/domain' className="nav-link" style={{ color: '#FF63B1' }} >Explore Domains</Link>
+              <Link to='/change-the-clap/domain' className="nav-link" style={{ color: '#FF63B1' }} >Explore Domains</Link>
             </li>
             <li className="nav-item">
-              <Link to='/helping-hand' className="nav-link" style={{ color: '#FF63B1' }} >Helping Hand</Link>
+              <Link to='/change-the-clap/helping-hand' className="nav-link" style={{ color: '#FF63B1' }} >Helping Hand</Link>
             </li>
           </ul>
-            <Link to='/signup'><button className="btn" style={{ backgroundColor: '#FF63B1', color: 'white', marginRight: '16px' }}>Login/Signup</button></Link>
+            <Link to='/change-the-clap/signup'><button className="btn" style={{ backgroundColor: '#FF63B1', color: 'white', marginRight: '16px' }}>Login/Signup</button></Link>
           
         </div>
       </nav>

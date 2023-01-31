@@ -33,7 +33,7 @@ const SignUp = () => {
                 // Signed in 
                 const user = userCredential.user;
                 // console.log(user);
-                navigate('/success');
+                navigate('/change-the-clap/login');
                 // ...
             })
             .catch((error) => {
@@ -75,7 +75,7 @@ const SignUp = () => {
                     </div>
 
                     <button onClick={register} style={{ color: 'white', backgroundColor: '#FF63B1' }} type="button" className="btn btn-primary">Sign Up</button>
-                    <Link to='/login'><button style={{ color: 'white', backgroundColor: '#FF63B1', marginLeft:"40px" }} type="button" className="btn btn-primary"> Already Have an Account?</button></Link>
+                    <Link to='/change-the-clap/login'><button style={{ color: 'white', backgroundColor: '#FF63B1', marginLeft:"40px" }} type="button" className="btn btn-primary"> Already Have an Account?</button></Link>
                     <br/>
                     <br/>
                     <h5 style={{color: '#FF63B1'}}>{errmsg}</h5>

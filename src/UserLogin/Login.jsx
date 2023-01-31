@@ -33,7 +33,7 @@ const Login = () => {
                 // Signed in 
                 const user = userCredential.user;
                 console.log("Logged in");
-                navigate('/success');
+                navigate('/change-the-clap/success');
                 // ...
             })
             .catch((error) => {
